@@ -1,4 +1,9 @@
-### Hi there 👋
+### Works
+
+- [vm-manager-java](https://github.com/asaken1021/vm-manager-java/tree/dev): 仮想マシン管理Webアプリのバックエンド(開発中)
+- [VelocityWhitelist](https://github.com/asaken1021/VelocityWhitelist): MinecraftサーバーのプロキシであるVelocity用のホワイトリストプラグイン
+- TMS 2.0 [frontend](https://github.com/asaken1021/lit-tms2.0-vue) [backend](https://github.com/asaken1021/lit-tms2.0-api-v2): タスクマネジメントWebアプリ
+- [daily-health-check](https://github.com/asaken1021/daily-health-check): 健康調査システム
 
 <!--
 **asaken1021/asaken1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
