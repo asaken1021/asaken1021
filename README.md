@@ -1,5 +1,5 @@
 ### Works
-
+- [wg-dynamic](https://github.com/asaken1021/wg-dynamic/tree/dev): WireGuardの動的設定ツール
 - [vm-manager-java](https://github.com/asaken1021/vm-manager-java/tree/dev): 仮想マシン管理Webアプリのバックエンド(開発中)
 - [VelocityWhitelist](https://github.com/asaken1021/VelocityWhitelist): MinecraftサーバーのプロキシであるVelocity用のホワイトリストプラグイン
 
